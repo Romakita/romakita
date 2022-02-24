@@ -10,7 +10,7 @@ You can help me to achieve my goals of improving the world through code, help me
 
 - 💼 Tech Lead | Fullstack | Trainer at [Zenika](http://zenika.com/)
 - 📈 Built [Ts.ED](https://tsed.io) and toolings - **+2K** stars on GitHub
-- ❤️ I love writing TypeScript and JavaScript, but I'm not limited on the languages. Learning other languages is always a funny task for me!
+- ❤️ I love TypeScript and JavaScript, but I'm not limited on these languages. Learning new languages is always a funny task for me!
 - 💬 Ask me about anything [here](https://github.com/romakita/romakita/issues)
 
 **Languages and Tools:**  
