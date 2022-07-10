@@ -21,7 +21,7 @@ You can help me to achieve my goals of improving the world through code, help me
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png"></code> 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/koa/koa.png"></code> 
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=romakita" alt="Romakita's github stats" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=Romakita&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Romakita's github stats" />
 
 <a href="https://twitter.com/Romakita">
   <img align="right" alt="Romain Lenzotti | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
