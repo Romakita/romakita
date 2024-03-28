@@ -1,6 +1,6 @@
 Hi, I'm Romain! An open source developer :D
 
-I'm the author of the Ts.ED framework. Since 2016, I spent a lot of time on open source projects in order to build tools to facilitate developers lives. I think it helps me personnaly and professionnaly because I have learned a lot of things and I love share everything I know. I will never get tired of it!
+I'm the author of the Ts.ED framework. Since 2016, I spent a lot of time on open source projects in order to build tools to facilitate developers lives. I think it helps me personnaly and professionally because I have learned a lot of things and I love share everything I know. I will never get tired of it!
 
 I would like to keep working on my framework and its [ecosystem](https://tsed.io/warehouse/) and contributing as many as possible for other open source projects.
 
